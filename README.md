@@ -21,5 +21,12 @@ Bu proje, kişisel portföyümü tanıtmak ve sergilemek amacıyla geliştirdiğ
 
 1. Bu projeyi bilgisayarınıza klonlayın:
    ```bash
-   git clone https://github.com/kullaniciadi/portfoy-web-sitesi.git
+   git clone https://github.com/merve-karagulle/portfoyumWebSitesi
+2.Web sitenizi yayınlamak için bir sunucuya (GitHub Pages veya cPanel) yükleyin.
+3.Web tarayıcınızda index.html dosyasını açarak projeyi görüntüleyebilirsiniz.
 
+🧑‍💻 Katkıda Bulunma
+Projeme katkıda bulunmak isterseniz, pull request göndererek önerilerinizi paylaşabilirsiniz.
+
+📜 Lisans
+Bu proje kişisel kullanım içindir ve açık kaynak olarak paylaşılmaktadır. İsterseniz kendi portföyünüz için özelleştirebilirsiniz.
